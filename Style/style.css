@@ -82,7 +82,7 @@
   align-items: center;
   width: 400px;
   height: 320px;
-  background-image: url("/Assets/wc-big.png");
+  background-image: url("../Assets/wc-big.png");
   border-radius: 28px;
   background-size: cover;
 }
